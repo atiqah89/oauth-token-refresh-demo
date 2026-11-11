@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TokenRefresh/TokenRefresh.csproj" />
+  </Folder>
+  <Folder Name="/samples/">
+    <Project Path="samples/MockProvider/MockProvider.csproj" />
+    <Project Path="samples/Client/Client.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TokenRefresh.Tests/TokenRefresh.Tests.csproj" />
+  </Folder>
+</Solution>

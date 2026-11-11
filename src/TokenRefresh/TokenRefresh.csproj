@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Description>Thread-safe OAuth 2.0 token refresh and resilient HTTP handlers for third-party API integrations.</Description>
+  </PropertyGroup>
+</Project>
